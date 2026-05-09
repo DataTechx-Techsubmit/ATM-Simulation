@@ -23,6 +23,9 @@ Covers the full-stack design of the ATM-Simulation — frontend, backend, databa
 
 <img width="514" height="531" alt="image" src="https://github.com/user-attachments/assets/70d0a3a3-1643-46cd-aeac-9129a6ced7cc" />
 
+<img width="514" height="542" alt="image" src="https://github.com/user-attachments/assets/c54140bc-835f-4d7f-b43c-19c438cf5420" />
+
+
 
 
 
