@@ -18,3 +18,12 @@ Covers the full-stack design of the ATM-Simulation — frontend, backend, databa
 ### 2.1 MVC Pattern
 
 <img width="467" height="425" alt="image" src="https://github.com/user-attachments/assets/f1b85820-24ed-4202-aac5-65317ed52509" />
+
+<img width="516" height="556" alt="image" src="https://github.com/user-attachments/assets/ce331f8c-a5a7-4cbe-ad6b-138f60ccd641" />
+
+<img width="514" height="531" alt="image" src="https://github.com/user-attachments/assets/70d0a3a3-1643-46cd-aeac-9129a6ced7cc" />
+
+
+
+
+
